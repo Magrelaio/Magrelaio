@@ -1,9 +1,6 @@
 <h1>CAIO CESAR SANTOS</h1>
 <body>
 <p>esse é meu nome :D</p>
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 </body>
 
 <!---
