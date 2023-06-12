@@ -1,9 +1,6 @@
-<h1>CAIO CESAR SANTOS</h1>
+<h1>&#128516; Prazer, sou Caio.</h1>
+<p> Olá! Meu nome é Caio Cesar Santos, sou Desenvolvedor Web e Python, e atualmente estou produzindo um site com o ChatGPT integrado</p>
 <body>
-<p>esse é meu nome :D</p>
+  <h3>&#11088; Sobre este Git</h3>
+  <p>Aqui é onde estarei colocando meus projetos, sejam eles apenas estudos ou projetos reais. Leve-o como meu diario para essa jornada que estou iniciando.</p>
 </body>
-
-<!---
-Magrelaio/Magrelaio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
