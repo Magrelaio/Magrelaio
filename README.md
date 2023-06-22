@@ -4,7 +4,7 @@
   <h3>&#11088; Sobre este Git</h3>
   <p>Aqui é onde estarei colocando meus projetos, sejam eles apenas estudos ou projetos reais. Leve-o como meu diario para essa jornada que estou iniciando.</p>
 <div>
-<a href="https://github.com/Magrelaio">
+<a href="https://github.com/Magrelaio?tab=repositories">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magrelaio&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 </div>
