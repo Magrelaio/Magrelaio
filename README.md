@@ -1,71 +1,57 @@
-<h1 align="center">&#128516; Prazer, eu sou o Caio!</h1>
-
-<p align="center">
-  Desenvolvedor Web Fullstack
-</p>
-
----
-
-## :star: Sobre este Git
-
-Este é o meu espaço para compartilhar minha evolução como desenvolvedor.  
-Aqui você vai encontrar:
-
-- :computer: Projetos de estudo  
--  :rocket: Projetos reais  
-- :brain: Experimentos com novas tecnologias  
-- :bulb: Ideias que saíram do papel  
-
-Considere este perfil como **meu diário de evolução na programação**.
-
----
-
-## :hammer_and_wrench: Tecnologias que utilizo
-
-<div align="center">
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-EF4135?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
+<h1 align="center">Olá! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Sou Caio!</h1> 
+<div align="center"> 
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="70%"> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=100"/> 
 </div>
 
----
+## ├──📂 Links
 
-## 📊 Estatísticas do GitHub
+```bash
+> se conecte comigo:
+> instagram  -> @caio_feipa
+> linkedin   -> /in/caio-cesar-santos-930b3823b
+> email      -> caiocesar2004gfgff@gmail.com
+```
+<p> <a href="https://instagram.com/caio_feipa" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00FF66" /> </a> <a href="mailto:caiocesar2004gfgff@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF66" /> </a> <a href="https://www.linkedin.com/in/caio-cesar-santos-930b3823b" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF66" /> </a> </p>
 
-<div align="center">
-  <a href="https://github.com/Magrelaio?tab=repositories">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magrelaio&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+## ├──📂Sobre mim
 
----
+```yaml
+nome: Caio
+apelido: Magrelaio
+foco: Desenvolvimento Full Stack
+localização: Brasil
+interesses:
+  - Construir sistemas modernos
+  - Criar APIs eficientes
+  - Desenvolver interfaces funcionais
+```
 
-## 📷 Minhas redes
+## ├──📂Atividade 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Magrelaio&theme=github-compact&hide_border=true&title=Magrelaio%20Activity%20Graph&line=00FF66&point=00FF66&bg_color=0d1117&color=00FF66" width="100%"/>
 
-<div align="center">
+## └──📂Porfólio
 
-<a href="https://instagram.com/caio_feipa" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
 
-<a href="mailto:caiocesar2004gfgff@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
 
-<a href="https://www.linkedin.com/in/caio-cesar-santos-930b3823b" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="tJPjNz.jpg" alt="QR Code do Portfólio" width="260" />
+    </td>
+    <td align="center" width="34%">
+      <p><strong>Acesse meu portfólio!</strong></p>
+      <p>
+        <a href="https://www.caiocesardev.com.br" target="_blank">
+          https://www.caiocesardev.com.br
+        </a>
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="260" alt="GIF principal" />
+    </td>
+  </tr>
+</table>
 
-</div>
 
----
 
-<p align="center">
-  Sempre aprendendo, sempre construindo. Sede insaciável de conhecimento.
-</p>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/> </div>
