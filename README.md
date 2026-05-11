@@ -1,4 +1,14 @@
-<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> I'm Caio!</h1> 
+<h1 align="center">
+  <span>
+    Hi!
+    <img 
+      src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"
+      width="35"
+      style="vertical-align: middle;"
+    />
+    I'm Caio!
+  </span>
+</h1>
 <div align="center"> 
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="70%"> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=100"/> 
 </div>
